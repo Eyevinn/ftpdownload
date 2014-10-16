@@ -3,6 +3,7 @@ ftpdownload
 
 Since Python's ftplib.FTP.retrBinary just doesn't cut it.
 This module instead uses ftplib.FTP.transfercmd.
+Written for Python 2.7.
 
 Features:
 - shows progress bar,
